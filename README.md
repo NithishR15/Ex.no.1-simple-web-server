@@ -1,7 +1,7 @@
 
 ## Ex 01 -Simple Web Server using Spring Boot
 ## NAME: Nithish R
-## REG NO:212223040135
+## REG NO: 212223040135
 ## AIM:
 To develop a Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints.
 ## ALGORITHM:
